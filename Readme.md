@@ -2,7 +2,7 @@
 
 ## Requests - URLs
 
-- Method GET - http://localhost:8080/contact 
+- Method GET - http://localhost:8080/contact <br>
 {<br>
   "email": "italoaraujosantos@gmail.com",<br>
   "name": "Italo Araujo Chaves",<br>
